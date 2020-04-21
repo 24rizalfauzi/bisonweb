@@ -50,9 +50,6 @@ MIT
 @ionic-native/fcm
 MIT
 
-@ionic-native/local-notifications
-MIT
-
 @ionic-native/native-storage
 MIT
 
